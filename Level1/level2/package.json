@@ -1,0 +1,6 @@
+{
+  "name": "alerts",
+  "description": "Package containing tools and infrastructure for defining alerts, flagging occurrence of alerts, and notifying persons. Examples: `Your bill is high`, `20+ users have logged in today`, `More users today than yesterday`",
+  "author": "Chen Liu",
+  "dependencies": ["folder2"]
+}
